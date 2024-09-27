@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 10%;
+    font-size: 20px;
+}
+header h1{
+    font-size: 60px;
+}
+.author{
+    color: violet;
+}
+.source{
+    color: red;
+}
+.time{
+    color: gray;
+}
+.more_info{
+    color: gray;
+    font-size: 15px;
+}
+.description{
+    font-size: smaller;
+    font-style: italic;
+}
+.state{
+    font-style: italic;
+}
+.content{
+    font-size: 20px;
+}
+.image {
+    text-align: center;
+}
+footer {
+    font-size: 20px;
+}
+img {
+    width: 100%;
+}
